@@ -1,0 +1,49 @@
+#breakfast{
+    margin-bottom: 207px;
+    margin-left: 337px;
+    margin-right: 336px;
+    min-height: 312px;
+}
+.lline{
+    margin-top: 35.5px;
+    margin-left: 17px;
+    width: 100%;
+    border: 1px solid #D8D8D8;
+    height: 0;
+    margin-bottom: 14px;
+}
+.tagss img {
+    width: 16px;
+    height: 16px;
+}
+.tagss{
+    display: flex;
+    font-size: 12px;
+}
+.shortDesc{
+    width: 318px;
+    height: 79px;
+
+}
+.a{
+    width: 1247px;
+    display: flex;
+    flex-wrap: wrap;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 2;
+    column-gap: 64px;
+    row-gap: 56px;
+    min-height: 395px;
+}
+.bottomm{
+    margin-top: -15px;
+    height: 28px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.noRecCat{
+    margin: auto;
+    font-size: 26px;
+    color: #F0972A;
+}

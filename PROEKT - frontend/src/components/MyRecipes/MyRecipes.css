@@ -1,0 +1,37 @@
+#my-recipes{
+    margin-left: 336px;
+    margin-right: 337px;
+    width: 1248px;
+}
+.myRecipes-top{
+    padding: 0;
+    display: flex;
+    height: 48px;
+    
+}
+.myRecipes-title h1 {
+    margin-top: 0;
+    font: normal normal bold 36px/48px Roboto Slab;
+    letter-spacing: 0px;
+    color: #96BB36;
+}
+.myRecipes-linetop{
+    margin-top: 35.5px;
+    margin-left: 19.5px;
+    width: 980px;
+    border: 1px solid #D8D8D8;
+    height: 0;
+    margin-right: 6px;
+}
+.newRecipe-button{
+    height: 41px;
+    width: 41px;
+    border-radius: 50%;
+    background-color: #F0972A;
+    box-shadow: 0px 3px 6px #00000029;
+    border: none;
+}
+.newRecipe-button img{
+    height: 18.5px;
+    width: 19.5px;
+}

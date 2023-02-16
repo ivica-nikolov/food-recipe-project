@@ -1,0 +1,129 @@
+.createaccount{
+    margin-left: 336px;
+    margin-right: 337px;
+    width: 1280px;
+    margin-bottom: 202px;
+}
+.headingg1 {
+    height: 48px;
+    width: 260px;
+}
+.headingg1 h1 {
+    margin-top: 0;
+    font: normal normal bold 36px/48px Roboto Slab;
+    letter-spacing: 0px;
+    color: #96BB36;
+    
+}
+
+.topline{
+    margin-top: 35.5px;
+    margin-left: 19.5px;
+    width: 999px;
+    border: 1px solid #D8D8D8;
+    height: 0;
+    margin-bottom: 14px;
+    background-color: gray;
+}
+
+.DOWN{
+    margin-right: 337px;
+    margin-top: 93px;
+    width: 1280px;
+    display: flex;
+    
+}
+.LEFT{
+    margin-right: 69px;
+}
+.createHeading{
+    width: 262px;
+    height: 120px;
+    
+}
+.createHeading :first-child{
+    margin: 0px;
+    font: normal normal bold 46px/60px Roboto Slab;
+    letter-spacing: 0px;
+    color: #F0972A;
+}
+.createHeading :last-child{
+    margin: 0px;
+    font: normal normal bold 46px/60px Roboto Slab;
+    letter-spacing: 0px;
+    color: #626262; 
+}
+
+.discriptionn{
+    margin-top: 29px;
+    width: 412px;
+    height: 215px;
+}
+.discriptionn p{
+    text-align: left;
+    font: normal normal normal 20px/26px Roboto Slab;
+    letter-spacing: 0px;
+    color: #A5A5A5;
+}
+form{
+    display: flex;
+}
+.Rightt{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin-left: 33px;
+    
+}
+.Rightt button:hover{
+    cursor: pointer;
+}
+label{
+    margin-top: 23px;
+    text-align: left;
+    font: normal normal bold 16px/21px Roboto Slab;
+    letter-spacing: 0px;
+    color: #F0972A;
+}
+
+.Rightt button{
+    margin-top: 38px;
+    width: 202px;
+    height: 40px;
+    background-color: #96BB36;
+    border:none;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 0;
+    box-shadow: 0px 3px 6px #00000029 ;
+
+    text-align: center;
+    font: normal normal 900 16px/21px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+.Rightt input{
+    width: 294px;
+    height: 40px;
+    margin-top: 10px;
+    border: 1px solid #A5A5A5;
+    background: #F0EFEA 0% 0% no-repeat padding-box;
+    border: 1px solid #A5A5A5;
+    border-radius: 5px;
+
+    font: 14px/19px Roboto;
+    font-weight: bold;
+    letter-spacing: 0px;
+}
+.message {
+    display: flex;
+}
+.message p{
+    text-align: left;
+    font: normal normal bold 16px/21px Roboto Slab;
+    letter-spacing: 0px;
+    color: #F0972A;
+}

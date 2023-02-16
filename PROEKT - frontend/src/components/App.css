@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto Slab';
+    margin: 0;
+    background-color: #F8F7F2;
+}
+.App {
+    
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+.root{
+    width: 1919px;
+}

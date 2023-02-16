@@ -1,0 +1,136 @@
+#nav{
+    margin-left: 336px;
+    margin-right: 337px;
+    margin-top: 52.06px;
+    margin-bottom: 83px;
+    width: 1245px;
+    display: flex;
+    align-items:center;
+    height: 57.53px;
+    font-family: Roboto Slab;
+}
+img {
+    height: 57.53px;
+    width: 176.97px;
+}
+a:-webkit-any-link {
+    text-decoration: none;
+}
+.catBtn:focus{
+    color: #F0972A;
+}
+.categories {
+    margin-left: 139.42px;
+    height: 24px;
+    width: 457px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: #A5A5A5;
+    letter-spacing: 0;
+}
+
+.loginButton{
+    margin-right: 18px;
+    margin-left: 138px;
+    height: 44px;
+    width: 107.79px;
+    border: 1px solid #A5A5A5;
+    background-color: none;
+    border-radius: 4px;
+    
+}
+.createAccButton{
+    margin-left: 18px;
+    height: 44px;
+    width: 178.85;
+    background-color: #96BB36;
+    border:none;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 0;
+    box-shadow: 0px 3px 6px #00000029 ;
+
+}
+.or{
+    margin-top: 0;
+    height: 21px;
+    width: 15px;
+    font-weight: bold;
+    text-align: left;
+    font: normal normal 900 16px/21px Roboto;
+    letter-spacing: 0px;
+    color: #F0972A; 
+}
+.ellipse{
+    height: 9px;
+    width: 9px;
+    background-color: #F0972A;
+    border-radius: 50%;
+}
+.ellipse2{
+    height: 9px;
+    width: 9px;
+    margin-left: 14px;
+    margin-right: 15px;
+    background-color: #626262;
+    border-radius: 50%;
+}
+.createAccount{
+    font-family: Roboto Slab;
+    color: white;
+    text-transform: uppercase;
+    height: 21px;
+    font-size: 16px;
+    box-shadow:#626262;
+}
+.catBtn{
+    font-size: 18x;
+    font-weight: bold;
+    color: #A5A5A5;
+    letter-spacing: 0;
+}
+.logIn {
+    font-size: 16px;
+    color: #A5A5A5;
+    letter-spacing: 0;
+    font-weight: bold;
+}
+.myRec {
+    margin-left: 109px;
+    color: #96BB36;
+    height: 24px;
+    width: 115px;
+    font-size: 18px;
+    font-weight: bold;
+    border-bottom: 2px solid #A5A5A5;
+    letter-spacing: 0;
+    font-family: Roboto Slab;
+}
+.myProf {
+    color: #F0972A;
+    height: 24px;
+    width: 115px;
+    font-size: 18px;
+    font-weight: bold;
+    border-bottom: 2px solid #A5A5A5;
+    letter-spacing: 0;
+    font-family: Roboto Slab;
+}
+.logOut {
+    font-family: Roboto Slab;
+    font-size: 18px;
+    border: none;
+    color:#B5B5B4;
+    height: 27px;
+    width: 92px;
+    font-size: 18px;
+    font-weight: bold;
+    border-bottom: 2px solid #A5A5A5;
+    letter-spacing: 0;
+    background-color: inherit;
+    
+}

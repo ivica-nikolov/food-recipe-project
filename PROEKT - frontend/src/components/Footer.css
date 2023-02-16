@@ -1,0 +1,45 @@
+.footer{
+    width: 1920px;
+    height: 180px;
+    background-color: #626262;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footerImg{
+    padding-left: 337px;
+    width: 113px;
+    height: 37px;
+}
+.footerCategories{
+    width: 381px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: bold;
+    font: 15px/20px;
+    font-family: Roboto Slab;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    
+}
+
+.footerCircle{
+    width: 8px;
+    height: 8px;
+    background-color: white;
+    border-radius: 50%;
+}
+.footerImg2{
+    width: 118px;
+    height: 38px;
+    padding-right: 337px;
+}
+.footerImg2 h6{
+    margin: 0;
+    font: 14px/19px Roboto Slab;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}

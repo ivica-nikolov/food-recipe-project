@@ -1,0 +1,28 @@
+{
+    "dbConfig":{
+        "username": "Ivica",
+        "password": "Password",
+        "clusterName": "cluster0.he1adeb.mongodb.net",
+        "databaseName": "baby's"
+    },
+    "hostname": "localhost",
+    "port": 5000,
+    "security": {
+        "jwt_secret_key": "random"
+    },
+    "services": {
+        "proxy": {
+            "port": 5001
+        },
+		"authentication": {
+			"port": 5002
+		},
+        
+        "recipes": {
+			"port": 5003
+		},
+        "storage": {
+			"port": 5004
+		}
+	}
+}
